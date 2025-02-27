@@ -9,3 +9,4 @@ and php artisan serve and it works
 -open routes/api.php and look for the routes then download postman and test the routes
 -note: (admin account only 1 and it's in tho code) to imlement it run  php artisan db:seed --class=AdminUserSeeder
 -open the db and you should see the admin account and the column isAdmin is true (1) 
+-the code is in master branch
